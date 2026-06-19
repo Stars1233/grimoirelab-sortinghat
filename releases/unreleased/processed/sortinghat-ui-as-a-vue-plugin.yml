@@ -1,9 +1,0 @@
----
-title: SortingHat UI as a Vue plugin
-category: added
-author: Eva Millán <evamillan@bitergia.com>
-issue: null
-notes: >
-  The user interface for the dashboard, individual and organization
-  views is now packed into a plugin that can be installed in other Vue
-  projects.

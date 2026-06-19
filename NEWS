@@ -1,5 +1,21 @@
 # Releases
 
+## sortinghat 1.15.0 - (2026-06-19)
+
+**New features:**
+
+ * SortingHat UI as a Vue plugin\
+   The user interface for the dashboard, individual and organization
+   views is now packed into a plugin that can be installed in other Vue
+   projects.
+
+**Dependencies updateds:**
+
+ * Increased minimum version for Node.js to 22\
+   Node.js 20 reached end of life in April 2026. SortingHat now supports
+   long-term supported versions 22 and 24.
+
+
   ## sortinghat 1.14.3 - (2026-05-06)
   
   * Update Poetry's package dependencies
